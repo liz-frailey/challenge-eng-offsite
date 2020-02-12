@@ -82,7 +82,7 @@
             "Sink": "googleMapsApiKey",
             "ExternalEntityId": "",
             "IntValue": 0,
-            "StringValue": "${{googleMapsApiKey}}",
+            "StringValue": "AIzaSyCICxKAgLkMDbiIysb4fOMfz0fKSt9NRyk",
             "Formatting": "",
             "BooleanValue": false,
             "ImageUrl": "",
