@@ -1,0 +1,75 @@
+{
+  "$id": "1",
+  "$type": "https://schema.yext.cloud/config/km/sample-entity",
+  "content": {
+    "yext.address": {
+      "line1": "123 Main St",
+      "city": "Raleigh",
+      "region": "NC",
+      "postalCode": "27609",
+      "countryCode": "US"
+    },
+    "yext.addressHidden": false,
+    "yext.hours": {
+      "monday": {
+        "openIntervals": [
+          {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        ]
+      },
+      "friday": {
+        "openIntervals": [
+          {
+            "start": "09:00",
+            "end": "17:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "start": "09:00",
+            "end": "16:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      }
+    },
+    "yext.name": "Branch",
+    "c_activeOnAnswers": true,
+    "yext.featuredMessage": {
+      "description": "Visit us today!"
+    },
+    "yext.mainPhone": "+19197588330",
+    "yext.timezone": "America/New_York"
+  },
+  "entityType": "location"
+}

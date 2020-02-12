@@ -1,0 +1,81 @@
+{
+  "$id": "atm-1",
+  "$type": "https://schema.yext.cloud/config/km/sample-entity",
+  "content": {
+    "yext.address": {
+      "line1": "456 Main St",
+      "city": "Raleigh",
+      "region": "NC",
+      "postalCode": "27609",
+      "countryCode": "US"
+    },
+    "yext.hours": {
+      "monday": {
+        "openIntervals": [
+          {
+            "start": "00:00",
+            "end": "23:59"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "start": "00:00",
+            "end": "23:59"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "start": "00:00",
+            "end": "23:59"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "start": "00:00",
+            "end": "23:59"
+          }
+        ]
+      },
+      "friday": {
+        "openIntervals": [
+          {
+            "start": "00:00",
+            "end": "23:59"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "start": "00:00",
+            "end": "23:59"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "start": "00:00",
+            "end": "23:59"
+          }
+        ]
+      }
+    },
+    "yext.name": "ATM",
+    "c_activeOnAnswers": true,
+    "c_activeOnPages": true,
+    "yext.featuredMessage": {
+      "description": "Featured message for credit union demo.",
+      "url": "http://www.yext.com"
+    },
+    "yext.mainPhone": "+12124002344",
+    "yext.timezone": "America/New_York"
+  },
+  "entityType": "atm"
+}

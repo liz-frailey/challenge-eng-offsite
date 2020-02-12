@@ -1,0 +1,12 @@
+{
+  "$id": "apr",
+  "$type": "https://schema.yext.cloud/config/km/custom-field",
+  "apiName": "c_apr",
+  "displayName": "APR",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "decimalType": {}
+  },
+  "typeId": "type.decimal"
+}

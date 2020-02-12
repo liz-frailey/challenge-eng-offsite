@@ -1,0 +1,14 @@
+{
+  "$id": "ratesAndDisclosuresURL",
+  "$type": "https://schema.yext.cloud/config/km/custom-field",
+  "apiName": "c_ratesAndDisclosuresURL",
+  "displayName": "Rates and Disclosures URL",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL"
+    }
+  },
+  "typeId": "type.string"
+}
